@@ -15,7 +15,8 @@
         "illusive-isc/SetUpBlendshapeSync",
         "illusive-isc/EasyScreenShot",
         "illusive-isc/ConvertConstraintSupply",
-        "illusive-isc/AAOBlocker"
+        "illusive-isc/AAOBlocker",
+        "illusive-isc/RuruneOptimizer",
     ],
     "packages":[]
 }
