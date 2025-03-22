@@ -16,6 +16,7 @@
         "illusive-isc/EasyScreenShot",
         "illusive-isc/AAOBlocker",
         "illusive-isc/RuruneOptimizer",
+        "illusive-isc/ScaleAdjusterManager",
     ],
     "packages":[]
 }
