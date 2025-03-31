@@ -1,18 +1,23 @@
 {
-    "name":"illusive_isc",
-    "id":"jp.illusive-isc.vpm2",
-    "url":"https://illusive-isc.github.io/vpm-repos2/index.json",
-    "author":{
-        "name":"illusive_isc",
-        "url":"https://github.com/illusive-isc"
-    },
-    "infoLink":{
-        "url":"https://github.com/illusive-isc/vpm-repos2",
-        "text":"View on GitHub"
-    },
-    "bannerUrl":"https://avatars.githubusercontent.com/u/154746527?v=4",
-    "githubRepos":[
-       
-    ],
-    "packages":[ "Yusuke57/ProjectWindowHistory/archive/refs/heads/master"]
+  "name": "illusive_isc",
+  "id": "jp.illusive-isc.vpm2",
+  "url": "https://illusive-isc.github.io/vpm-repos2/index.json",
+  "author": {
+    "name": "illusive_isc",
+    "url": "https://github.com/illusive-isc"
+  },
+  "infoLink": {
+    "url": "https://github.com/illusive-isc/vpm-repos2",
+    "text": "View on GitHub"
+  },
+  "bannerUrl": "https://avatars.githubusercontent.com/u/154746527?v=4",
+  "githubRepos": [],
+  "packages": [
+    {
+      "name": "ProjectWindowHistory",
+      "version": "master",
+      "url": "https://github.com/Yusuke57/ProjectWindowHistory/archive/refs/heads/master.zip",
+      "description": "ウィンドウ履歴を管理するツール"
+    }
+  ]
 }
