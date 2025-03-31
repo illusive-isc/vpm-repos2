@@ -12,7 +12,7 @@
     },
     "bannerUrl":"https://avatars.githubusercontent.com/u/154746527?v=4",
     "githubRepos":[
-        "Yusuke57/ProjectWindowHistory/archive/refs/heads/master",
+       
     ],
-    "packages":[]
+    "packages":[ "Yusuke57/ProjectWindowHistory/archive/refs/heads/master",]
 }
