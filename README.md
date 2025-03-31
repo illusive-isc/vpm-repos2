@@ -1,1 +1,1 @@
-https://illusive-isc.github.io/vpm-repos/
+https://illusive-isc.github.io/vpm-repos2/
